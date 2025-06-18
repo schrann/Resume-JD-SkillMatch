@@ -1,0 +1,35 @@
+Subash Kumar
+Email: subash.kumar@example.com
+Location: Mumbai,India
+LinkedIn: linkedin.com/in/subashkumar
+
+SUMMARY
+Data Scientist with 1 year of hands-on experience building NLP and predictive models in Python. 
+Deployed ML pipelines on AWS, analyzed large datasets with SQL & pandas, and delivered insights via Flask APIs and dashboards.
+
+TECHNICAL SKILLS
+• Programming: Python (pandas, NumPy), SQL (MySQL, PostgreSQL)
+• NLP: spaCy, NLTK, Hugging Face Transformers
+• DL Frameworks: PyTorch, scikit-learn
+• Cloud: AWS (S3, EC2, RDS, SageMaker)
+• MLOps / Big Data: MLflow, Airflow, PySpark
+• Web / Deployment: Flask, Docker
+• Visualization: matplotlib, Power BI
+
+EXPERIENCE
+Data Science Intern | TechForge Analytics | Chennai, Feb 2024–May 2025
+- Built an AWS-hosted Flask API for a BERT-based text classifier, reducing manual tagging time by 70%.  
+- Orchestrated data ingestion with Airflow DAGs: Spark jobs on EMR and model training and MLflow model registry.  
+- Wrote SQL ETL scripts to clean & join 10M+ records; delivered weekly sales dashboards in Power BI.
+
+PROJECTS
+Zero-Shot Skill Matcher (GitHub: github.com/subashkumar/skill-matcher)
+- Extract JD noun-phrases with spaCy; used Hugging Face BART-MNLI zero-shot to rank resume skills.  
+- Logged inference runs in MLflow; outputs CSV of top-N matches in < 5s.
+
+Tweet Sentiment API (GitHub: github.com/subashkumar/tweet-sentiment)
+- Fine-tuned DistilBERT on tweet_eval dataset; achieved F1 ≈ 0.86 in 3 minutes on CPU.  
+- Packaged as Docker container with FastAPI endpoint; deployed on AWS ECS.
+
+EDUCATION
+B.E. in Computer Science | Anna University | 2020–2024
